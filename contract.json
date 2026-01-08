@@ -1,0 +1,7 @@
+// contract
+// login
+// payload
+{
+    "email": "string",
+    "password": "string"
+}
